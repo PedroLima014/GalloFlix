@@ -1,0 +1,8 @@
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.csproj.AssemblyReference.cache
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.AssemblyInfoInputs.cache
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.AssemblyInfo.cs
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.csproj.CoreCompileInputs.cache
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.RazorAssemblyInfo.cache
+C:\Users\etec\Documents\GitHub\GalloFlix\GalloFlix\obj\Debug\net6.0\GalloFlix.RazorAssemblyInfo.cs
